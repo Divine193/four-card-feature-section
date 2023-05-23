@@ -13,8 +13,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -25,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-webpage-using-css-grid-zIL1uEgr8D)
+- Live Site URL: [Add live site URL here](https://steady-heliotrope-b254ad.netlify.app)
 
 ## My process
 
@@ -40,4 +38,4 @@ Users should be able to:
 
 ## Author
 
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@Divine193](https://www.twitter.com/Divine193)
